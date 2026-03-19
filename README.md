@@ -4,7 +4,7 @@
 
 - 🌐 Building [Ratscape](https://ratscape.gr) — the first app in Greece for Car & Bike meetings!
 - 💼 Internship experience at **19Clouds** as Web Developer
-- 🎓 Graduate of Computer Applications Technician (Multimedia/Web Designer - Developer) at **THESSALIKO IEK GIATSOS**
+- 🎓 Graduate of Computer Applications Technician at **THESSALIKO IEK GIATSOS**
 - 📍 Based in **Lamia, Greece**
 
 ---
@@ -20,6 +20,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 ---
 
@@ -28,7 +29,8 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Ratscape](https://ratscape.gr) | Meet-Up & Chatting App for car/bike enthusiasts | JavaScript |
-| [CloudCast](https://g-developerr.github.io/CloudCast/) | Meteorological Service Weather Website | CSS/JS |
+| [Omilo Hotel Booking](https://omilo-hotel-booking.onrender.com/) | Full hotel booking app with login, favorites, multi-language & dark mode | React · Framer Motion · CSS |
+| [CloudCast](https://g-developerr.github.io/CloudCast/) | Meteorological Service Weather Website | CSS · JavaScript |
 | [Dashboard Analytics](https://dashboard-analytics-w0oo.onrender.com/) | Analytics Dashboard Panel For Companies | TypeScript |
 | [8-Ball-Pool](https://g-developerr.github.io/8-Ball-Pool/) | 8-Ball Pool Web Game | JavaScript |
 | [Snake Nokia 3D](https://g-developerr.github.io/Snake-Game/) | Snake Game Nokia Style 3D | JavaScript |
