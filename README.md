@@ -33,12 +33,8 @@
 | [TzinGames](https://tzingames.com) | Free browser games portal: 14 games (TzinChu online card game, TzinGyros, TzinHole 3D, Neon Drift and more) in Greek & English | JavaScript · Three.js · Cloudflare Workers |
 | [Ratscape](https://ratscape.gr) | Meet-Up & Chatting App for car/bike enthusiasts | JavaScript |
 | [Omilo Hotel Booking](https://omilo-hotel-booking.onrender.com/) | Full hotel booking app with login, favorites, multi-language & dark mode | React · Framer Motion · CSS |
-| [Roulette Game](https://rulette-game-drab.vercel.app/) | Live casino-style roulette game with betting system | JavaScript · CSS · HTML |
 | [CloudCast](https://g-developerr.github.io/CloudCast/) | Meteorological Service Weather Website | CSS · JavaScript |
 | [Dashboard Analytics](https://dashboard-analytics-w0oo.onrender.com/) | Analytics Dashboard Panel For Companies | TypeScript |
-| [8-Ball-Pool](https://g-developerr.github.io/8-Ball-Pool/) | 8-Ball Pool Web Game | JavaScript |
-| [Snake Nokia 3D](https://g-developerr.github.io/Snake-Game/) | Snake Game Nokia Style 3D | JavaScript |
-| [Dragon Game](https://github.com/G-Developerr/Dragon-Game) | Dragon Game designed by me | JavaScript |
 
 ---
 
