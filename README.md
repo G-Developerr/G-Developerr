@@ -3,6 +3,7 @@
 ### 23y/o Web Developer, passionate about building cool stuff 🚀
 
 - 🌐 Building [Ratscape](https://ratscape.gr) — the first app in Greece for Car & Bike meetings!
+- 🎮 Creator of [TzinGames](https://tzingames.com) — a free browser games portal with 14 games, in Greek & English!
 - 💼 Full-time Web Developer at **19Clouds**
 - 🎓 Graduate of Computer Applications Technician at **THESSALIKO IEK GIATSOS**
 - 📍 Based in **Lamia, Greece**
@@ -29,6 +30,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [TzinGames](https://tzingames.com) | Free browser games portal: 14 games (TzinChu online card game, TzinGyros, TzinHole 3D, Neon Drift and more) in Greek & English | JavaScript · Three.js · Cloudflare Workers |
 | [Ratscape](https://ratscape.gr) | Meet-Up & Chatting App for car/bike enthusiasts | JavaScript |
 | [Omilo Hotel Booking](https://omilo-hotel-booking.onrender.com/) | Full hotel booking app with login, favorites, multi-language & dark mode | React · Framer Motion · CSS |
 | [Roulette Game](https://rulette-game-drab.vercel.app/) | Live casino-style roulette game with betting system | JavaScript · CSS · HTML |
@@ -42,6 +44,7 @@
 
 ### 📫 Connect with me
 
+[![TzinGames](https://img.shields.io/badge/TzinGames-1E88E5?style=flat&logo=googleplay&logoColor=white)](https://tzingames.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://g-developerr.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jim-tzinavos-b73370350/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mhtsos_tzinavos/)
