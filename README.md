@@ -3,7 +3,7 @@
 ### 23y/o Web Developer, passionate about building cool stuff 🚀
 
 - 🌐 Building [Ratscape](https://ratscape.gr) — the first app in Greece for Car & Bike meetings!
-- 🎮 Creator of [TzinGames](https://tzingames.com) — a free browser games portal with 14 games, in Greek & English!
+- 🎮 Creator of [TzinGames](https://tzingames.com) — a free browser games portal with 30+ games, in Greek & English!
 - 💼 Full-time Web Developer at **19Clouds**
 - 💻 Full Stack Developer at **Tradix**
 - 🎓 Graduate of Computer Applications Technician at **THESSALIKO IEK GIATSOS**
