@@ -31,7 +31,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [TzinGames](https://tzingames.com) | Free browser games portal: 14 games (TzinChu online card game, TzinGyros, TzinHole 3D, Neon Drift and more) in Greek & English | JavaScript · Three.js · Cloudflare Workers |
+| [TzinGames](https://tzingames.com) | Free browser games portal: 30+ games (TzinChu online card game, TzinGyros, TzinHole 3D, Neon Drift and more) in Greek & English | JavaScript · Three.js · Cloudflare Workers |
 | [Ratscape](https://ratscape.gr) | Meet-Up & Chatting App for car/bike enthusiasts | JavaScript |
 | [Omilo Hotel Booking](https://omilo-hotel-booking.onrender.com/) | Full hotel booking app with login, favorites, multi-language & dark mode | React · Framer Motion · CSS |
 | [CloudCast](https://g-developerr.github.io/CloudCast/) | Meteorological Service Weather Website | CSS · JavaScript |
